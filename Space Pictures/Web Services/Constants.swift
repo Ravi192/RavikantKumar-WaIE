@@ -37,4 +37,3 @@ extension NASAAPODClient {
         static let Copyright = "copyright"
     }
 }
-

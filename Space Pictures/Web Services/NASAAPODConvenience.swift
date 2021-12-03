@@ -25,8 +25,6 @@ extension NASAAPODClient {
     }
 
     
-  
-    
     // NB: Concept Tags are currently turned off in NASA's service
     func getPhotos(startDate: Date, endDate: Date, conceptTags: Bool = false, completionHandlerForPictures: @escaping (_ success: Bool, _ error: Error?) -> Void){
         let startDateString = format(date: startDate)
