@@ -1,9 +1,7 @@
 //
 //  PictureOfTheDayDetailViewController.swift
-//  Space Pictures
 //
-//  Created by John Clema on 25/5/18.
-//  Copyright © 2018 John Clema. All rights reserved.
+//  Created by Ravikant Kumar on 02/12/21.
 //
 
 import UIKit
