@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>STREETSmart.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1.1.1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1824C483B028F833491C249AF860209A3CBCDD2E</string>
+				<key>dateExpires</key>
+				<string>18/11/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>SCSL936CGL.com.unilever.STREETSmartNZ</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>SCSL936CGL</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>SCSL936CGL.com.unilever.STREETSmartNZ</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>STREETSmart.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>60700f7c-b22a-40c1-9d2b-8151d0fbc68b</string>
+				<key>dateExpires</key>
+				<string>18/11/22</string>
+				<key>name</key>
+				<string>StreetSmartNZ_Jan2020</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>SCSL936CGL</string>
+				<key>name</key>
+				<string>UNILEVER AUSTRALIA (HOLDINGS) PROPRIETARY LIMITED</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>5.3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
